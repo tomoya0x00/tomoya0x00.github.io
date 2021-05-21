@@ -8,15 +8,15 @@ Android application developer
 
 ### statek
 
-Multiplatform (JVM, JS) Kotlin DSL for FSM (finite state machine)
-https://github.com/tomoya0x00/statek
+Multiplatform (JVM, JS) Kotlin DSL for FSM (finite state machine)  
+[https://github.com/tomoya0x00/statek](https://github.com/tomoya0x00/statek)
 
 ## Contributions
 
 ### permissions-dispatcher/PermissionsDispatcher
 
-https://github.com/permissions-dispatcher/PermissionsDispatcher/pulls?q=is%3Apr+is%3Aclosed+author%3Atomoya0x00
+[Pull requests](https://github.com/permissions-dispatcher/PermissionsDispatcher/pulls?q=is%3Apr+is%3Aclosed+author%3Atomoya0x00)
 
 ### DroidKaigi/conference-app-2019
 
-https://github.com/DroidKaigi/conference-app-2019/pulls?q=is%3Apr+is%3Aclosed+author%3Atomoya0x00
+[Pull requests](https://github.com/DroidKaigi/conference-app-2019/pulls?q=is%3Apr+is%3Aclosed+author%3Atomoya0x00)
