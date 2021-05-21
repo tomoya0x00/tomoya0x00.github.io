@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# About tomoya0x00
 
-You can use the [editor on GitHub](https://github.com/tomoya0x00/tomoya0x00.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Android application developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# OSS
 
-### Markdown
+## Author
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### statek
 
-```markdown
-Syntax highlighted code block
+Multiplatform (JVM, JS) Kotlin DSL for FSM (finite state machine)
+https://github.com/tomoya0x00/statek
 
-# Header 1
-## Header 2
-### Header 3
+## Contributions
 
-- Bulleted
-- List
+### permissions-dispatcher/PermissionsDispatcher
 
-1. Numbered
-2. List
+https://github.com/permissions-dispatcher/PermissionsDispatcher/pulls?q=is%3Apr+is%3Aclosed+author%3Atomoya0x00
 
-**Bold** and _Italic_ and `Code` text
+### DroidKaigi/conference-app-2019
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomoya0x00/tomoya0x00.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://github.com/DroidKaigi/conference-app-2019/pulls?q=is%3Apr+is%3Aclosed+author%3Atomoya0x00
